@@ -2,13 +2,9 @@
 
 ¡Hola y bienvenido a mi portfolio de proyectos en GitHub! Aquí encontrarás una recopilación de los proyectos en los que he trabajado, con el objetivo de demostrar mis habilidades y conocimientos como analista. Cada proyecto representa un desafío único que he abordado para mejorar mis capacidades técnicas, analísticas y creativas.
 
-## Mis proyectos destacados
+## Mi TFM
 
-### 1. Proyecto ABC
-Breve descripción del proyecto ABC. Enumera las tecnologías clave utilizadas, los desafíos que enfrentaste y cómo los superaste. Si es posible, incluye un enlace a la demo en vivo o a la demostración del proyecto.
-
-### 2. Aplicación XYZ
-Descripción del proyecto XYZ. Resalta tus contribuciones específicas al proyecto, cómo colaboraste con otros miembros del equipo y cualquier resultado cuantificable, como mejoras de rendimiento o características implementadas.
+El Trabajo de Fin de Grado que se expone a tiene como objetivo el estudio del comportamiento del consumidor utilizando la base de datos Marketing Campaign. El estudio se centrará principalmente en analizarlo mediante técnicas de aprendizaje automático. Para lograrlo, se llevará a cabo una exploración de la base de datos seguida de una limpieza de datos para luego poder analizarla. Para el análisis, se implementará un algoritmo de clasificación de árbol de decisión para predecir si el consumidor aceptará o no la campaña de marketing. Además, se realizará unalgoritmo de clustering k-means para agrupar los consumidores que poseen características similares en diversos segmentos homogéneos. La combinación de ambas técnicas ayudará a comprender a los consumidores y permitirá desarrollar estrategias específicas y personalizadas.
 
 ## Aprendizaje Continuo
 
